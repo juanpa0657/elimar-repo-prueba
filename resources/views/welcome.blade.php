@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>inicio</h1>
+    <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat neque unde doloribus minima beatae quisquam, sed itaque corrupti repellendus tenetur, aliquid iste quasi, provident ipsam doloremque quod numquam iusto! Iusto.</h1>
 </body>
 </html>
